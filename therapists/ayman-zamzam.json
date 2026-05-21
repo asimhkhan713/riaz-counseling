@@ -1,0 +1,21 @@
+{
+  "id": "ayman-zamzam",
+  "firstName": "Ayman",
+  "lastName": "Zamzam",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "ayman-zamzam.webp",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 80
+}

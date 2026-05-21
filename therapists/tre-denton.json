@@ -1,0 +1,24 @@
+{
+  "id": "tre-denton",
+  "firstName": "Tremain",
+  "lastName": "Denton",
+  "title": "LPC",
+  "tier": "licensed",
+  "photo": "tre-denton.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "galleria",
+    "woodlands"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 20
+}

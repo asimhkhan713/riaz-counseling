@@ -1,0 +1,20 @@
+{
+  "id": "nursel-coskuner",
+  "firstName": "Nursel",
+  "lastName": "Coskuner",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "nursel-coskuner.webp",
+  "locations": [
+    "galleria",
+    "woodlands"
+  ],
+  "therapyTypes": [
+    "individual"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 110
+}

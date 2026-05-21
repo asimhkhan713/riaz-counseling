@@ -1,0 +1,20 @@
+{
+  "id": "karina-brisack",
+  "firstName": "Karina",
+  "lastName": "Brisack",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "karina-brisack.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 130
+}

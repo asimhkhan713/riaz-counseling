@@ -1,0 +1,24 @@
+{
+  "id": "sinem-guven",
+  "firstName": "Sinem",
+  "lastName": "Guven",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "sinem-guven.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "galleria",
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 100
+}

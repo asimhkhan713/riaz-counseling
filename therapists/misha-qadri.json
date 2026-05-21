@@ -1,0 +1,22 @@
+{
+  "id": "misha-qadri",
+  "firstName": "Misha",
+  "lastName": "Qadri",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "misha-qadri.webp",
+  "photoPosition": "center 15%",
+  "locations": [
+    "galleria",
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 140
+}

@@ -1,0 +1,21 @@
+{
+  "id": "natalie-rodriguez-eaton",
+  "firstName": "Natalie",
+  "lastName": "Rodriguez Eaton",
+  "title": "LPC",
+  "tier": "licensed",
+  "photo": "natalie-rodriguez-eaton.webp",
+  "photoPosition": "center 10%",
+  "locations": [
+    "online"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 50
+}

@@ -1,0 +1,21 @@
+{
+  "id": "thomas-stapp",
+  "firstName": "Thomas",
+  "lastName": "Stapp",
+  "title": "Masters Clinical Intern",
+  "tier": "intern",
+  "photo": "thomas-stapp.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 170
+}

@@ -1,0 +1,22 @@
+{
+  "id": "gary-harrel",
+  "firstName": "Gary",
+  "lastName": "Harrel",
+  "title": "LCSW",
+  "tier": "licensed",
+  "photo": "gary-harrel.webp",
+  "photoPosition": "center 30%",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 40
+}

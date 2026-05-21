@@ -1,0 +1,20 @@
+{
+  "id": "maham-sultan",
+  "firstName": "Maham",
+  "lastName": "Sultan",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "maham-sultan.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 60
+}

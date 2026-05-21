@@ -1,0 +1,26 @@
+{
+  "id": "manahil-riaz",
+  "firstName": "Manahil",
+  "lastName": "Riaz",
+  "title": "LPC-Supervisor",
+  "tier": "licensed",
+  "photo": "manahil-riaz.webp",
+  "locations": [
+    "galleria",
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression",
+    "trauma",
+    "parenting",
+    "teens"
+  ],
+  "order": 0
+}

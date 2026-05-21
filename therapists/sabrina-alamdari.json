@@ -1,0 +1,21 @@
+{
+  "id": "sabrina-alamdari",
+  "firstName": "Sabrina",
+  "lastName": "Alamdari",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "sabrina-alamdari.webp",
+  "photoPosition": "center 45%",
+  "locations": [
+    "galleria",
+    "woodlands"
+  ],
+  "therapyTypes": [
+    "individual"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 70
+}

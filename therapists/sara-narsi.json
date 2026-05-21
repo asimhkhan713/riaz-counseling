@@ -1,0 +1,21 @@
+{
+  "id": "sara-narsi",
+  "firstName": "Sara",
+  "lastName": "Narsi",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "sara-narsi.webp",
+  "locations": [
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 120
+}

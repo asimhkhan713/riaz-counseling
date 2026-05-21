@@ -1,0 +1,21 @@
+{
+  "id": "mccoy-rasco",
+  "firstName": "McCoy",
+  "lastName": "Rasco",
+  "title": "Masters Clinical Intern",
+  "tier": "intern",
+  "photo": "mccoy-rasco.webp",
+  "photoPosition": "center 20%",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 160
+}

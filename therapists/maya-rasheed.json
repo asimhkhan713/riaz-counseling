@@ -1,0 +1,22 @@
+{
+  "id": "maya-rasheed",
+  "firstName": "Maya",
+  "lastName": "Rasheed",
+  "title": "LPC-Associate",
+  "tier": "associate",
+  "photo": "maya-rasheed.webp",
+  "locations": [
+    "galleria"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 150
+}

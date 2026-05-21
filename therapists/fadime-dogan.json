@@ -1,0 +1,22 @@
+{
+  "id": "fadime-dogan",
+  "firstName": "Fadime",
+  "lastName": "Dogan",
+  "title": "LPC",
+  "tier": "licensed",
+  "photo": "fadime-dogan.webp",
+  "locations": [
+    "sugar-land"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 30
+}

@@ -1,0 +1,20 @@
+{
+  "id": "karen-yanez",
+  "firstName": "Karen",
+  "lastName": "Yanez",
+  "title": "Licensed Psychologist",
+  "tier": "licensed",
+  "photo": "karen-yanez.webp",
+  "photoPosition": "center 30%",
+  "locations": [
+    "online"
+  ],
+  "therapyTypes": [
+    "individual"
+  ],
+  "specializations": [
+    "anxiety",
+    "depression"
+  ],
+  "order": 10
+}
