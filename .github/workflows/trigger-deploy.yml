@@ -6,9 +6,22 @@ on:
   workflow_dispatch:
 
 jobs:
-  deploy:
+  trigger-monorepo-deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: Trigger flexbone-site-riazcounseling deploy
+      - name: Checkout monorepo
+        uses: actions/checkout@v4
+        with:
+          repository: flexboneai/flexbone-client-sites
+          token: ${{ secrets.MONOREPO_PUSH_TOKEN }}
+          ref: main
+
+      - name: Push empty commit to trigger Cloudflare deploy
+        env:
+          CONTENT_SHA: ${{ github.sha }}
         run: |
-          curl -fsSL -X POST "${{ secrets.CLOUDFLARE_DEPLOY_HOOK }}"
+          git config user.name "riaz-content-bot"
+          git config user.email "actions@github.com"
+          SHORT_SHA="${CONTENT_SHA:0:7}"
+          git commit --allow-empty -m "chore(riazcounseling): content sync trigger (asimhkhan713/riaz-counseling@${SHORT_SHA})"
+          git push origin main
