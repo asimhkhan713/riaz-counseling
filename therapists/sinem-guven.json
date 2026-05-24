@@ -20,5 +20,58 @@
     "anxiety",
     "depression"
   ],
-  "order": 100
+  "order": 100,
+  "topSpecialties": [
+    "Child",
+    "Anxiety",
+    "ADHD"
+  ],
+  "expertise": [
+    "ADHD",
+    "Anger Management",
+    "Anxiety",
+    "Behavioral Issues",
+    "Child",
+    "Coping Skills",
+    "Depression",
+    "Divorce",
+    "Education and Learning Disabilities",
+    "Emotional Disturbance",
+    "Family Conflict",
+    "Grief",
+    "Life Coaching",
+    "Life Transitions",
+    "Marital and Premarital",
+    "Parenting",
+    "Peer Relationships",
+    "Pregnancy, Prenatal, Postpartum",
+    "Relationship Issues",
+    "School Issues",
+    "Self Esteem",
+    "Stress",
+    "Trauma and PTSD"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Cognitive Processing Therapy (CPT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Family Systems",
+    "Mindful Based Therapy (MBCT)",
+    "Play Therapy"
+  ],
+  "agesServed": [
+    "Toddler",
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "Heterosexual"
+  ]
 }

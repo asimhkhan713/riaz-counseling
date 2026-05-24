@@ -17,5 +17,41 @@
     "anxiety",
     "depression"
   ],
-  "order": 70
+  "order": 70,
+  "topSpecialties": [
+    "Children/Adolescents",
+    "Anxiety",
+    "Life Transitions"
+  ],
+  "expertise": [
+    "Anger Management",
+    "Anxiety",
+    "Child",
+    "Coping Skills",
+    "Family Conflict",
+    "Life Transitions",
+    "Peer Relationships",
+    "Relationship Issues",
+    "Self Esteem",
+    "Stress"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Person Centered"
+  ],
+  "agesServed": [
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Secular Non-Religious",
+  "communitiesServed": [
+    "Bisexual",
+    "Lesbian",
+    "LGBTQ+"
+  ]
 }

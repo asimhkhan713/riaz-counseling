@@ -17,5 +17,32 @@
     "anxiety",
     "depression"
   ],
-  "order": 160
+  "order": 160,
+  "topSpecialties": [
+    "LGBTQ+ Issues",
+    "Depression",
+    "Anxiety"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Depression",
+    "Transgender"
+  ],
+  "mentalHealthAreas": [
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Existential",
+    "Psychodynamic",
+    "Sandplay"
+  ],
+  "agesServed": [
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Secular Non-Religious",
+  "communitiesServed": [
+    "LGBTQ+"
+  ]
 }

@@ -18,5 +18,65 @@
     "anxiety",
     "depression"
   ],
-  "order": 150
+  "order": 150,
+  "topSpecialties": [
+    "Depression",
+    "Anxiety",
+    "Spirituality",
+    "Cultural/Religious Identity Issues"
+  ],
+  "expertise": [
+    "Addiction",
+    "ADHD",
+    "Anxiety",
+    "Bipolar Disorder",
+    "Depression",
+    "Eating Disorders",
+    "Family Conflict",
+    "Obsessive Compulsive (OCD)",
+    "Peer Relationships",
+    "Racial Identity",
+    "Relationship Issues",
+    "Self Esteem",
+    "Sexual Abuse",
+    "Spirituality",
+    "Stress",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Dissociative Identity Disorders",
+    "Impulse Control Disorders",
+    "Mood Disorders",
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Adlerian",
+    "Attachment Based",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Culturally Sensitive",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Family Systems",
+    "Family/Marital",
+    "Feminist",
+    "Multicultural",
+    "Narrative",
+    "Person Centered",
+    "Play Therapy",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "Bisexual",
+    "Heterosexual",
+    "Lesbian",
+    "LGBTQ+"
+  ]
 }

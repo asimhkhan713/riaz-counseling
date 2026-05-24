@@ -17,5 +17,47 @@
     "anxiety",
     "depression"
   ],
-  "order": 170
+  "order": 170,
+  "topSpecialties": [
+    "Depression",
+    "Anxiety",
+    "Self Esteem Issues"
+  ],
+  "expertise": [
+    "Anger Management",
+    "Anxiety",
+    "Behavioral Issues",
+    "Coping Skills",
+    "Depression",
+    "Grief",
+    "Peer Relationships",
+    "Self Esteem",
+    "Stress",
+    "Trauma and PTSD"
+  ],
+  "mentalHealthAreas": [
+    "Elderly Person Disorders",
+    "Impulse Control Disorders",
+    "Mood Disorders",
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Adlerian",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Humanistic",
+    "Motivational Interviewing"
+  ],
+  "agesServed": [
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Secular Non-Religious",
+  "communitiesServed": [
+    "Bisexual",
+    "Lesbian",
+    "LGBTQ+",
+    "Heterosexual"
+  ]
 }

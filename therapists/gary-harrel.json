@@ -18,5 +18,48 @@
     "anxiety",
     "depression"
   ],
-  "order": 40
+  "order": 40,
+  "topSpecialties": [
+    "Addiction",
+    "Spirituality",
+    "Transgender"
+  ],
+  "expertise": [
+    "Addiction",
+    "Anxiety",
+    "Chronic Illness",
+    "Depression",
+    "Divorce",
+    "Grief",
+    "Marital and Premarital",
+    "Spirituality",
+    "Substance Abuse",
+    "Transgender"
+  ],
+  "mentalHealthAreas": [
+    "Elderly Person Disorders",
+    "Mood Disorders",
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Christian Counseling",
+    "Clinical Supervision and Licensed Supervisors",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Family/Marital",
+    "Gestalt",
+    "Multicultural",
+    "Psychodynamic",
+    "Solution Focused Brief (SFBT)"
+  ],
+  "agesServed": [
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Lesbian",
+    "LGBTQ+",
+    "Heterosexual"
+  ]
 }

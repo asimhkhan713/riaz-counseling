@@ -17,5 +17,42 @@
     "anxiety",
     "depression"
   ],
-  "order": 50
+  "order": 50,
+  "topSpecialties": [
+    "Trauma & PTSD",
+    "Perinatal Mental Health",
+    "Anxiety"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Depression",
+    "Infertility",
+    "Pregnancy, Prenatal, Postpartum",
+    "Relationship Issues",
+    "Self Harming",
+    "Stress",
+    "Suicidal Ideation",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Eclectic",
+    "EMDR",
+    "Emotionally Focused",
+    "Gottman Method",
+    "Person Centered"
+  ],
+  "agesServed": [
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": []
 }

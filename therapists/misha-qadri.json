@@ -18,5 +18,52 @@
     "anxiety",
     "depression"
   ],
-  "order": 140
+  "order": 140,
+  "topSpecialties": [
+    "Cultural Issues",
+    "Couples Counseling",
+    "Healing Inner Child for Women"
+  ],
+  "expertise": [
+    "ADHD",
+    "Anxiety",
+    "Codependency",
+    "Coping Skills",
+    "Depression",
+    "Emotional Disturbance",
+    "Family Conflict",
+    "Life Transitions",
+    "Marital and Premarital",
+    "Parenting",
+    "Peer Relationships",
+    "Relationship Issues",
+    "Self Esteem",
+    "Stress"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Culturally Sensitive",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Internal Family Systems",
+    "Relational",
+    "Solution Focused Brief (SFBT)",
+    "Somatic",
+    "Strength Based"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "Bisexual",
+    "Lesbian",
+    "LGBTQ+",
+    "Heterosexual"
+  ]
 }

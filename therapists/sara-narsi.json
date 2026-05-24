@@ -17,5 +17,43 @@
     "anxiety",
     "depression"
   ],
-  "order": 120
+  "order": 120,
+  "topSpecialties": [
+    "Women's Issues",
+    "Spirituality",
+    "Life Transitions"
+  ],
+  "expertise": [
+    "ADHD",
+    "Career Counseling",
+    "Family Conflict",
+    "Infertility",
+    "Life Transitions",
+    "Marital and Premarital",
+    "Pregnancy, Prenatal, Postpartum",
+    "Spirituality",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Personality Disorders",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Culturally Sensitive",
+    "Eclectic",
+    "Emotionally Focused",
+    "Mindful Based Therapy (MBCT)",
+    "Solution Focused Brief (SFBT)",
+    "Strength Based"
+  ],
+  "agesServed": [
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "LGBTQ+"
+  ]
 }

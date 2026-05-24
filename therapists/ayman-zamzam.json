@@ -17,5 +17,54 @@
     "anxiety",
     "depression"
   ],
-  "order": 80
+  "order": 80,
+  "topSpecialties": [
+    "Anxiety",
+    "Depression",
+    "Relationships and Family Conflict"
+  ],
+  "expertise": [
+    "Anger Management",
+    "Antisocial Personality",
+    "Anxiety",
+    "Behavioral Issues",
+    "Career Counseling",
+    "Coping Skills",
+    "Depression",
+    "Divorce",
+    "Domestic Abuse",
+    "Domestic Violence",
+    "Emotional Disturbance",
+    "Family Conflict",
+    "Grief",
+    "Infidelity",
+    "Internet Addiction",
+    "Life Transitions",
+    "Marital and Premarital",
+    "Men's Issues",
+    "Parenting",
+    "Peer Relationships",
+    "Relationship Issues",
+    "School Issues",
+    "Self Esteem",
+    "Sleep or Insomnia",
+    "Spirituality",
+    "Stress",
+    "Trauma and PTSD",
+    "Video Game Addiction"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Person Centered",
+    "Solution Focused Brief (SFBT)"
+  ],
+  "agesServed": [
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": []
 }

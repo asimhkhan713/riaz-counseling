@@ -16,5 +16,42 @@
     "anxiety",
     "depression"
   ],
-  "order": 110
+  "order": 110,
+  "topSpecialties": [
+    "Relationship/Attachment Issues",
+    "Identity Issues",
+    "Depression"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Codependency",
+    "Depression",
+    "Family Conflict",
+    "Grief",
+    "Racial Identity",
+    "Relationship Issues",
+    "Self Esteem",
+    "Spirituality",
+    "Trauma and PTSD"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Attachment Based",
+    "Culturally Sensitive",
+    "EMDR",
+    "Feminist",
+    "Internal Family Systems",
+    "Narrative",
+    "Psychodynamic",
+    "Relational"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": []
 }

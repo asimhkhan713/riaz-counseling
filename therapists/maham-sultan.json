@@ -16,5 +16,42 @@
     "anxiety",
     "depression"
   ],
-  "order": 60
+  "order": 60,
+  "topSpecialties": [
+    "Anxiety",
+    "Self-Esteem",
+    "Depression"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Career Counseling",
+    "Coping Skills",
+    "Depression",
+    "Life Coaching",
+    "Medication Management",
+    "Peer Relationships",
+    "Self Esteem",
+    "Stress",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Compassion Focused",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Play Therapy",
+    "Solution Focused Brief (SFBT)"
+  ],
+  "agesServed": [
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "Heterosexual"
+  ]
 }

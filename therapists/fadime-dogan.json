@@ -18,5 +18,55 @@
     "anxiety",
     "depression"
   ],
-  "order": 30
+  "order": 30,
+  "topSpecialties": [
+    "Anxiety",
+    "Stress",
+    "Depression"
+  ],
+  "expertise": [
+    "Adoption",
+    "Anger Management",
+    "Behavioral Issues",
+    "Borderline Personality Disorder",
+    "Depression",
+    "Family Conflict",
+    "Grief",
+    "Narcissistic Personality Disorder",
+    "Pregnancy, Prenatal, Postpartum",
+    "Relationship Issues",
+    "Stress",
+    "Trauma and PTSD"
+  ],
+  "mentalHealthAreas": [
+    "Impulse Control Disorders",
+    "Mood Disorders",
+    "Personality Disorders",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Adlerian",
+    "Attachment Based",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Emotionally Focused",
+    "Existential",
+    "Jungian",
+    "Multicultural",
+    "Person Centered"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Muslim",
+  "communitiesServed": [
+    "Bisexual",
+    "Lesbian",
+    "LGBTQ+",
+    "Heterosexual"
+  ]
 }

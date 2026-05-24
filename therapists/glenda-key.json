@@ -19,5 +19,45 @@
     "depression",
     "trauma"
   ],
-  "order": 90
+  "order": 90,
+  "topSpecialties": [
+    "Eating Disorders",
+    "Borderline Personality Disorder",
+    "Addiction"
+  ],
+  "expertise": [
+    "Addiction",
+    "Alcohol Use",
+    "Anxiety",
+    "Bipolar Disorder",
+    "Borderline Personality Disorder",
+    "Codependency",
+    "Depression",
+    "Drug Abuse",
+    "Dual Diagnosis",
+    "Eating Disorders",
+    "Internet Addiction",
+    "Self Esteem",
+    "Self Harming",
+    "Substance Abuse"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Cognitive Behavioral Therapy (CBT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Humanistic",
+    "Motivational Interviewing",
+    "Positive Psychology",
+    "Solution Focused Brief (SFBT)"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": []
 }
