@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  trigger-monorepo-deploy:
+  bump-submodule-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout monorepo
@@ -15,13 +15,30 @@ jobs:
           repository: flexboneai/flexbone-client-sites
           token: ${{ secrets.MONOREPO_PUSH_TOKEN }}
           ref: main
+          submodules: recursive
 
-      - name: Push empty commit to trigger Cloudflare deploy
+      - name: Bump content submodule pointer to latest
         env:
           CONTENT_SHA: ${{ github.sha }}
         run: |
           git config user.name "riaz-content-bot"
           git config user.email "actions@github.com"
           SHORT_SHA="${CONTENT_SHA:0:7}"
-          git commit --allow-empty -m "chore(riazcounseling): content sync trigger (asimhkhan713/riaz-counseling@${SHORT_SHA})"
+
+          # Move the submodule to the tip of its tracking branch (this push).
+          git submodule update --remote --recursive sites/riazcounseling/content
+
+          if git diff --quiet -- sites/riazcounseling/content; then
+            # Pointer already current (e.g. manual bump) — force a deploy anyway.
+            echo "Submodule already up to date; pushing empty commit to trigger deploy."
+            git commit --allow-empty \
+              -m "chore(riazcounseling): content sync trigger (asimhkhan713/riaz-counseling@${SHORT_SHA})"
+          else
+            # Real pointer change → monorepo deploy.yml detects sites/riazcounseling/
+            # changed and rebuilds + deploys the site with the new content.
+            git add sites/riazcounseling/content
+            git commit \
+              -m "chore(riazcounseling): sync content to asimhkhan713/riaz-counseling@${SHORT_SHA}"
+          fi
+
           git push origin main
