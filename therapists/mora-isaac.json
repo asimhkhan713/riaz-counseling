@@ -1,0 +1,70 @@
+{
+  "id": "Mora Isaac",
+  "firstName": "Mora",
+  "lastName": "Isaac",
+  "title": "Clinical Intern",
+  "tier": "intern",
+  "photo": "/therapists/mora-isaac/photo.jpg",
+  "locations": [
+    "galleria",
+    "online"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples"
+  ],
+  "specializations": [
+    "ADHD",
+    "Anxiety",
+    "Child"
+  ],
+  "order": 10,
+  "photoPosition": "center 30%",
+  "social": {},
+  "bio": "Mora Isaac is a Clinical Intern at Riaz Counseling, working with clients experiencing ADHD, anxiety, trauma and PTSD, self-esteem challenges, stress, women’s issues, and concerns related to chronic illness and sexual abuse. Mora also supports individuals navigating impulse control, mood, and thinking disorders, and provides affirming care for LGBTQ+, bisexual, lesbian, and heterosexual clients. Mora offers individual, couples, and group therapy services for toddlers, children (6–10), preteens (11–12), teens (13–19), and adults (20–64). Drawing from evidence-based approaches including Attachment-Based Therapy, Cognitive Behavioral Therapy (CBT), Experiential Therapy, Play Therapy, Solution-Focused Brief Therapy (SFBT), Somatic Therapy, Strength-Based Therapy, and Trauma-Focused Therapy, Mora creates a compassionate and supportive space tailored to each client’s unique needs.",
+  "topSpecialties": [
+    "Anxiety",
+    "ADHD",
+    "Trauma and PTSD"
+  ],
+  "expertise": [
+    "Chronic Illness",
+    "Self Esteem",
+    "ADHD",
+    "Anxiety",
+    "Child",
+    "Sex Therapy",
+    "Sexual Abuse",
+    "Stress",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Impulse Control Disorders",
+    "Mood Disorders",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Attachment Based",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Experiential Therapy",
+    "Play Therapy",
+    "Solution Focused Brief (SFBT)",
+    "Somatic",
+    "Strength Based",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Toddler",
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Group"
+  ]
+}
