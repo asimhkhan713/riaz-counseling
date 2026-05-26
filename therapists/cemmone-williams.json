@@ -1,0 +1,67 @@
+{
+  "id": "Cemmone Williams",
+  "firstName": "Cemmone",
+  "lastName": "Williams",
+  "title": "LPC - Fully Licensed",
+  "tier": "licensed",
+  "photo": "/therapists/cemmone-williams/photo.jpeg",
+  "locations": [
+    "galleria",
+    "online"
+  ],
+  "therapyTypes": [
+    "individual",
+    "couples"
+  ],
+  "specializations": [
+    "Anxiety",
+    "Depression",
+    "Grief"
+  ],
+  "order": 10,
+  "photoPosition": "center 30%",
+  "social": {},
+  "bio": "Cemmone Williams is a fully licensed LPC at Riaz Counseling, supporting clients experiencing anxiety, depression, trauma and PTSD, grief, divorce, domestic abuse, relationship concerns, life transitions, self-esteem challenges, and women’s issues. Cemmone’s primary areas of focus include anxiety, depression, and trauma, while also working with individuals navigating mood and personality disorders. Cemmone provides individual and couples therapy services for children (6–10), preteens (11–12), teens (13–19), and adults (20–64), offering affirming care for LGBTQ+ and heterosexual clients. Drawing from evidence-based approaches including Acceptance and Commitment Therapy (ACT), Attachment-Based Therapy, Cognitive Behavioral Therapy (CBT), Dialectical Behavioral Therapy (DBT), Emotionally Focused Therapy, Gestalt Therapy, Person-Centered Therapy, and Trauma-Focused Therapy, Cemmone creates a compassionate and empowering environment that supports healing, resilience, and personal growth.",
+  "topSpecialties": [
+    "Anxiety",
+    "Depression",
+    "Trauma"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Depression",
+    "Divorce",
+    "Domestic Abuse",
+    "Grief",
+    "Life Transitions",
+    "Relationship Issues",
+    "Self Esteem",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Personality Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Attachment Based",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Emotionally Focused",
+    "Gestalt",
+    "Person Centered",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples"
+  ]
+}
