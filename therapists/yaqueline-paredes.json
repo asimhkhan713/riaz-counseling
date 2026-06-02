@@ -1,0 +1,31 @@
+{
+  "id": "Yaqueline Paredes",
+  "firstName": "Yaqueline",
+  "lastName": "Paredes",
+  "title": "LCSW - Fully Licensed",
+  "tier": "licensed",
+  "photo": "/therapists/yaqueline-paredes/photo.jpg",
+  "locations": [
+    "galleria",
+    "online"
+  ],
+  "therapyTypes": [],
+  "specializations": [
+    "ADHD",
+    "Anxiety",
+    "Career Counseling",
+    "Chronic Illness",
+    "Codependency",
+    "Coping Skills",
+    "Depression",
+    "Divorce"
+  ],
+  "order": 130,
+  "social": {},
+  "topSpecialties": [],
+  "expertise": [],
+  "mentalHealthAreas": [],
+  "therapyModalities": [],
+  "agesServed": [],
+  "communitiesServed": []
+}
