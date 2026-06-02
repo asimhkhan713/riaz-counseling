@@ -4,7 +4,7 @@
   "lastName": "Rasheed",
   "title": "LPC-Associate",
   "tier": "associate",
-  "photo": "maya-rasheed.webp",
+  "photo": "/therapists/maya-rasheed/photo.jpg",
   "locations": [
     "galleria"
   ],
@@ -19,6 +19,7 @@
     "depression"
   ],
   "order": 150,
+  "social": {},
   "topSpecialties": [
     "Depression",
     "Anxiety",
