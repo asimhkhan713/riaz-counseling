@@ -9,7 +9,10 @@
     "galleria",
     "online"
   ],
-  "therapyTypes": [],
+  "therapyTypes": [
+    "individual",
+    "family"
+  ],
   "specializations": [
     "ADHD",
     "Anxiety",
@@ -21,11 +24,64 @@
     "Divorce"
   ],
   "order": 130,
+  "photoPosition": "center 20%",
   "social": {},
-  "topSpecialties": [],
-  "expertise": [],
-  "mentalHealthAreas": [],
-  "therapyModalities": [],
-  "agesServed": [],
-  "communitiesServed": []
+  "bio": "Yaqueline Paredes is a fully licensed LCSW at Riaz Counseling, supporting clients with anxiety, depression, trauma and PTSD, relationship challenges, grief, life transitions, OCD, codependency, and concerns related to shame and guilt. Yaqueline’s primary areas of focus include anxiety, depression, and shame and guilt, while also working with individuals experiencing mood disorders. Yaqueline provides individual and family therapy services for adults (20–64) and older adults (65+), offering affirming care for LGBTQ+, bisexual, lesbian, transgender, and heterosexual clients. Drawing from evidence-based approaches including ACT, Attachment-Based Therapy, CBT, DBT, ERP, Psychodynamic Therapy, Person-Centered Therapy, and Trauma-Focused Therapy, Yaqueline creates a culturally sensitive and supportive environment that fosters healing, resilience, and personal growth.",
+  "topSpecialties": [
+    "Anxiety",
+    "Depression",
+    "Shame and Guilt"
+  ],
+  "expertise": [
+    "Domestic Abuse",
+    "Domestic Violence",
+    "Dual Diagnosis",
+    "Family Conflict",
+    "Grief",
+    "Infidelity",
+    "Life Coaching",
+    "Life Transitions",
+    "Obsessive Compulsive (OCD)",
+    "Parenting",
+    "Peer Relationships",
+    "Racial Identity",
+    "Relationship Issues",
+    "Self Esteem",
+    "Self Harming",
+    "Sexual Abuse",
+    "Spirituality",
+    "Stress",
+    "Suicidal Ideation",
+    "Transgender",
+    "Trauma and PTSD",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Acceptance and Commitment (ACT)",
+    "Attachment Based",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Compassion Focused",
+    "Culturally Sensitive",
+    "Dialectical Behavioral Therapy (DBT)",
+    "Exposure Responsive Prevention (ERP)",
+    "Humanistic",
+    "Mindful Based Therapy (MBCT)",
+    "Motivational Interviewing",
+    "Person Centered",
+    "Psychodynamic",
+    "Strength Based",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Secular Non-Religious",
+  "communitiesServed": [
+    "Individual",
+    "Family"
+  ]
 }
