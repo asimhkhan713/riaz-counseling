@@ -2,10 +2,8 @@
   "id": "mccoy-rasco",
   "firstName": "McCoy",
   "lastName": "Rasco",
-  "title": "Masters Clinical Intern",
-  "tier": "intern",
-  "photo": "mccoy-rasco.webp",
-  "photoPosition": "center 20%",
+  "title": "LPC-Associate",
+  "tier": "associate",
   "locations": [
     "galleria"
   ],
@@ -18,6 +16,8 @@
     "depression"
   ],
   "order": 160,
+  "photoPosition": "center 20%",
+  "social": {},
   "topSpecialties": [
     "LGBTQ+ Issues",
     "Depression",
