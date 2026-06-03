@@ -2,10 +2,8 @@
   "id": "thomas-stapp",
   "firstName": "Thomas",
   "lastName": "Stapp",
-  "title": "Masters Clinical Intern",
-  "tier": "intern",
-  "photo": "thomas-stapp.webp",
-  "photoPosition": "center 20%",
+  "title": "LPC-Associate",
+  "tier": "associate",
   "locations": [
     "galleria"
   ],
@@ -18,6 +16,8 @@
     "depression"
   ],
   "order": 170,
+  "photoPosition": "center 20%",
+  "social": {},
   "topSpecialties": [
     "Depression",
     "Anxiety",
