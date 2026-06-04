@@ -4,8 +4,6 @@
   "lastName": "Alamdari",
   "title": "LPC-Associate",
   "tier": "associate",
-  "photo": "sabrina-alamdari.webp",
-  "photoPosition": "center 45%",
   "locations": [
     "galleria",
     "woodlands"
@@ -18,6 +16,9 @@
     "depression"
   ],
   "order": 70,
+  "photoPosition": "center 45%",
+  "social": {},
+  "bio": "Sabrina Alamdari is a LPC-Associate or LMSW practicing under the supervision of Dr. Manahil Riaz (LPC-Supervisor), serving clients from our Galleria and Woodlands offices. Sabrina's primary areas of focus include Children/Adolescents, Anxiety, and Life Transitions. Sabrina draws on evidence-based approaches such as Cognitive Behavioral Therapy (CBT), Person-Centered Therapy, and works with clients across a wide range of ages.",
   "topSpecialties": [
     "Children/Adolescents",
     "Anxiety",
