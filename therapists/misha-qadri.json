@@ -4,8 +4,6 @@
   "lastName": "Qadri",
   "title": "LPC-Associate",
   "tier": "associate",
-  "photo": "misha-qadri.webp",
-  "photoPosition": "center 15%",
   "locations": [
     "galleria",
     "sugar-land"
@@ -19,6 +17,9 @@
     "depression"
   ],
   "order": 140,
+  "photoPosition": "center 15%",
+  "social": {},
+  "bio": "Misha Qadri is a LPC-Associate or LMSW practicing under the supervision of Dr. Manahil Riaz (LPC-Supervisor), serving clients from our Galleria and Sugar Land offices. Misha's primary areas of focus include Cultural Issues, Couples Counseling, and Healing Inner Child for Women. Misha draws on evidence-based approaches such as Acceptance and Commitment Therapy (ACT), Culturally Sensitive approaches, and Dialectical Behavioral Therapy (DBT), and offers couples therapy alongside individual sessions. Misha works with preteens (11–12), teens (13–19), and adults (ages 20–64).",
   "topSpecialties": [
     "Cultural Issues",
     "Couples Counseling",
