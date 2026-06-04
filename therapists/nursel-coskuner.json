@@ -4,7 +4,6 @@
   "lastName": "Coskuner",
   "title": "LPC-Associate",
   "tier": "associate",
-  "photo": "nursel-coskuner.webp",
   "locations": [
     "galleria",
     "woodlands"
@@ -17,6 +16,8 @@
     "depression"
   ],
   "order": 110,
+  "social": {},
+  "bio": "Nursel Coskuner is a LPC-Associate or LMSW practicing under the supervision of Dr. Manahil Riaz (LPC-Supervisor), serving clients from our Galleria and Woodlands offices. Nursel's primary areas of focus include Relationship/Attachment Issues, Identity Issues, and Depression. Nursel draws on evidence-based approaches such as Attachment-Based Therapy, Culturally Sensitive approaches, and EMDR, and works with preteens (11–12), teens (13–19), and adults (ages 20–64).",
   "topSpecialties": [
     "Relationship/Attachment Issues",
     "Identity Issues",
