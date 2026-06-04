@@ -4,7 +4,6 @@
   "lastName": "Narsi",
   "title": "LPC-Associate",
   "tier": "associate",
-  "photo": "sara-narsi.webp",
   "locations": [
     "sugar-land"
   ],
@@ -18,6 +17,8 @@
     "depression"
   ],
   "order": 120,
+  "social": {},
+  "bio": "Sara Narsi is a LPC-Associate or LMSW practicing under the supervision of Dr. Manahil Riaz (LPC-Supervisor), serving clients from our Sugar Land office. Sara's primary areas of focus include Women's Issues, Spirituality, and Life Transitions. Sara draws on evidence-based approaches such as Cognitive Behavioral Therapy (CBT), Culturally Sensitive approaches, and Eclectic Therapy, and offers couples therapy and group therapy alongside individual sessions. Sara works with adults (ages 20–64).",
   "topSpecialties": [
     "Women's Issues",
     "Spirituality",
