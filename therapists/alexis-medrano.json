@@ -1,0 +1,57 @@
+{
+  "id": "Alexis Medrano",
+  "firstName": "Alexis",
+  "lastName": "Medrano",
+  "title": "Clinical Intern",
+  "tier": "intern",
+  "photo": "/therapists/alexis-medrano/photo.jpeg",
+  "locations": [
+    "galleria",
+    "online"
+  ],
+  "therapyTypes": [],
+  "specializations": [
+    "Anxiety",
+    "Career Counseling"
+  ],
+  "order": 10,
+  "photoPosition": "center 30%",
+  "social": {},
+  "bio": "Alexis Medrano is a Clinical Intern at Riaz Counseling, supporting clients experiencing anxiety, stress, life transitions, career-related challenges, substance use concerns, and women’s issues. Alexis’s primary areas of focus include anxiety, life transitions, and career counseling, while also working with individuals experiencing thinking disorders. Alexis provides individual, couples, family, and group therapy services for children (6–10), preteens (11–12), teens (13–19), and adults (20–64). Drawing from evidence-based approaches including Acceptance and Commitment Therapy (ACT), Adlerian Therapy, Cognitive Behavioral Therapy (CBT), Jungian Therapy, and Multicultural Therapy, Alexis creates a supportive and collaborative environment that helps clients build confidence, navigate change, and achieve personal growth.",
+  "topSpecialties": [
+    "Anxiety",
+    "Life Transitions",
+    "Career Counseling"
+  ],
+  "expertise": [
+    "Anxiety",
+    "Career Counseling",
+    "Life Transitions",
+    "Stress",
+    "Substance Abuse",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Adlerian",
+    "Acceptance and Commitment (ACT)",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Jungian",
+    "Multicultural"
+  ],
+  "agesServed": [
+    "Children (6-10)",
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Family",
+    "Group"
+  ]
+}
