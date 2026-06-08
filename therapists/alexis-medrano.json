@@ -9,7 +9,12 @@
     "galleria",
     "online"
   ],
-  "therapyTypes": [],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
   "specializations": [
     "Anxiety",
     "Career Counseling"
