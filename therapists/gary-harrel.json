@@ -2,10 +2,8 @@
   "id": "gary-harrel",
   "firstName": "Gary",
   "lastName": "Harrel",
-  "title": "LCSW",
+  "title": "LCSW-Supervisor",
   "tier": "licensed",
-  "photo": "gary-harrel.webp",
-  "photoPosition": "center 30%",
   "locations": [
     "galleria"
   ],
@@ -19,6 +17,8 @@
     "depression"
   ],
   "order": 40,
+  "photoPosition": "center 30%",
+  "social": {},
   "topSpecialties": [
     "Addiction",
     "Spirituality",
