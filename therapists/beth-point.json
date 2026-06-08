@@ -1,0 +1,93 @@
+{
+  "id": "Beth Point",
+  "firstName": "Beth",
+  "lastName": "Point",
+  "title": "Clinical Intern",
+  "tier": "intern",
+  "photo": "/therapists/beth-point/photo.jpg",
+  "locations": [
+    "galleria",
+    "online"
+  ],
+  "therapyTypes": [
+    "group",
+    "family",
+    "couples",
+    "individual"
+  ],
+  "specializations": [
+    "ADHD",
+    "Alcohol Use",
+    "Anxiety",
+    "Behavioral Issues",
+    "Bipolar Disorder"
+  ],
+  "order": 10,
+  "photoPosition": "center 30%",
+  "social": {},
+  "bio": "Beth Point is a Clinical Intern at Riaz Counseling, supporting clients with depression, anxiety, grief, trauma and PTSD, relationship challenges, family conflict, chronic illness, substance use concerns, and life transitions. Beth’s primary areas of focus include depression, anxiety, and grief, while also working with individuals experiencing mood disorders, psychosis, and thinking disorders. Beth provides individual, couples, family, and group therapy services for teens (13–19), adults (20–64), and older adults (65+), offering affirming care for LGBTQ+, bisexual, lesbian, and heterosexual clients. Drawing from evidence-based approaches including Adlerian Therapy, Cognitive Behavioral Therapy (CBT), Narrative Therapy, Solution-Focused Brief Therapy (SFBT), Strength-Based Therapy, and Trauma-Focused Therapy, Beth creates a culturally sensitive and supportive environment that promotes healing, resilience, and personal growth.",
+  "topSpecialties": [
+    "Depression",
+    "Anxiety",
+    "Grief"
+  ],
+  "expertise": [
+    "Chronic Illness",
+    "Coping Skills",
+    "Depression",
+    "Developmental Disorders",
+    "Divorce",
+    "Domestic Abuse",
+    "Domestic Violence",
+    "Dual Diagnosis",
+    "Family Conflict",
+    "Grief",
+    "Hoarding",
+    "Infidelity",
+    "Life Coaching",
+    "Narcissistic Personality Disorder",
+    "Peer Relationships",
+    "Pregnancy",
+    "Prenatal",
+    "Postpartum",
+    "Racial Identity",
+    "Relationship Issues",
+    "School Issues",
+    "Self Esteem",
+    "Self Harming",
+    "Spirituality",
+    "Stress",
+    "Suicidal Ideation",
+    "Transgender",
+    "Trauma and PTSD",
+    "Weight Loss",
+    "Women's Issues"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Psychosis",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Adlerian",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Culturally Sensitive",
+    "Jungian",
+    "Narrative",
+    "Solution Focused Brief (SFBT)",
+    "Strength Based",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Family",
+    "Group"
+  ]
+}
