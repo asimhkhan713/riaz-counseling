@@ -1,0 +1,21 @@
+{
+  "id": "Sarah Norwood",
+  "firstName": "Sarah",
+  "lastName": "Norwood",
+  "title": "LMFT-S, LPC-S",
+  "tier": "licensed",
+  "photo": "/therapists/sarah-norwood/photo.jpg",
+  "locations": [
+    "online"
+  ],
+  "therapyTypes": [],
+  "specializations": [],
+  "order": 10,
+  "social": {},
+  "topSpecialties": [],
+  "expertise": [],
+  "mentalHealthAreas": [],
+  "therapyModalities": [],
+  "agesServed": [],
+  "communitiesServed": []
+}
