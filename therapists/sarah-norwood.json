@@ -6,16 +6,74 @@
   "tier": "licensed",
   "photo": "/therapists/sarah-norwood/photo.jpg",
   "locations": [
-    "online"
+    "online",
+    "sugar-land"
   ],
-  "therapyTypes": [],
-  "specializations": [],
+  "therapyTypes": [
+    "individual",
+    "couples",
+    "family",
+    "group"
+  ],
+  "specializations": [
+    "Addiction",
+    "ADHD",
+    "Anxiety",
+    "Bipolar Disorder",
+    "Depression",
+    "Family Conflict",
+    "Grief",
+    "Life Transitions",
+    "Parenting",
+    "Self Esteem"
+  ],
   "order": 10,
+  "photoPosition": "center 30%",
   "social": {},
-  "topSpecialties": [],
-  "expertise": [],
-  "mentalHealthAreas": [],
-  "therapyModalities": [],
-  "agesServed": [],
-  "communitiesServed": []
+  "bio": "Sarah Norwood, LMFT-S, LPC-S is a fully licensed therapist at Riaz Counseling, supporting clients with anxiety, grief, stress, addiction, ADHD, depression, family conflict, parenting challenges, and life transitions. Sarah’s primary areas of focus include anxiety, grief, and stress, while also working with individuals experiencing mood, personality, and thinking disorders. Sarah provides individual, couples, family, and group therapy services for preteens (11–12), teens (13–19), adults (20–64), and older adults (65+), offering affirming care for LGBTQ+, bisexual, lesbian, and heterosexual clients. Drawing from evidence-based approaches including Attachment-Based Therapy, Cognitive Behavioral Therapy (CBT), Dialectical Behavioral Therapy (DBT), EMDR, Family Systems Therapy, Motivational Interviewing, and Trauma-Focused Therapy, Sarah creates a compassionate and supportive environment that promotes healing and lasting growth.",
+  "topSpecialties": [
+    "Anxiety",
+    "Grief",
+    "Stress"
+  ],
+  "expertise": [
+    "Addiction",
+    "ADHD",
+    "Anxiety",
+    "Bipolar Disorder",
+    "Depression",
+    "Family Conflict",
+    "Grief",
+    "Life Transitions",
+    "Parenting",
+    "Self Esteem"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders",
+    "Personality Disorders",
+    "Thinking Disorders"
+  ],
+  "therapyModalities": [
+    "Attachment Based",
+    "Clinical Supervision and Licensed Supervisors",
+    "Cognitive Behavioral Therapy (CBT)",
+    "Dialectical Behavioral Therapy (DBT)",
+    "EMDR",
+    "Family Systems",
+    "Motivational Interviewing",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Family",
+    "Group"
+  ]
 }
