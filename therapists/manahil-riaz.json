@@ -4,10 +4,10 @@
   "lastName": "Riaz",
   "title": "LPC-Supervisor",
   "tier": "licensed",
-  "photo": "manahil-riaz.webp",
   "locations": [
     "galleria",
-    "sugar-land"
+    "sugar-land",
+    "online"
   ],
   "therapyTypes": [
     "individual",
