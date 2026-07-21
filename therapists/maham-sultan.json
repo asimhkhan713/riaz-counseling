@@ -6,7 +6,8 @@
   "tier": "associate",
   "photo": "/therapists/maham-sultan/photo.jpg",
   "locations": [
-    "sugar-land"
+    "sugar-land",
+    "online"
   ],
   "therapyTypes": [
     "individual"
