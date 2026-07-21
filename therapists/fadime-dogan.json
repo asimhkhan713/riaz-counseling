@@ -4,9 +4,9 @@
   "lastName": "Dogan",
   "title": "LPC",
   "tier": "licensed",
-  "photo": "fadime-dogan.webp",
   "locations": [
-    "sugar-land"
+    "sugar-land",
+    "online"
   ],
   "therapyTypes": [
     "individual",
@@ -19,6 +19,7 @@
     "depression"
   ],
   "order": 30,
+  "social": {},
   "topSpecialties": [
     "Anxiety",
     "Stress",
