@@ -4,11 +4,10 @@
   "lastName": "Denton",
   "title": "LPC",
   "tier": "licensed",
-  "photo": "tre-denton.webp",
-  "photoPosition": "center 20%",
   "locations": [
     "galleria",
-    "woodlands"
+    "woodlands",
+    "online"
   ],
   "therapyTypes": [
     "individual",
@@ -21,6 +20,8 @@
     "depression"
   ],
   "order": 20,
+  "photoPosition": "center 20%",
+  "social": {},
   "topSpecialties": [
     "Depression",
     "Anxiety",
