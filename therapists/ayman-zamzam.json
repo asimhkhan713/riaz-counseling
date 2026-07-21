@@ -6,7 +6,8 @@
   "tier": "associate",
   "photo": "/therapists/ayman-zamzam/photo.jpg",
   "locations": [
-    "galleria"
+    "galleria",
+    "online"
   ],
   "therapyTypes": [
     "individual",
