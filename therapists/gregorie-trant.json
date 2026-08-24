@@ -72,5 +72,10 @@
     "Elderly (65+)"
   ],
   "faith": "Christianity",
-  "communitiesServed": []
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Family",
+    "Group"
+  ]
 }
