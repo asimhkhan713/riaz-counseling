@@ -7,7 +7,8 @@
   "photo": "/therapists/sarah-abobaker/photo.jpeg",
   "locations": [
     "online",
-    "sugar-land"
+    "sugar-land",
+    "galleria"
   ],
   "therapyTypes": [
     "individual",
@@ -19,8 +20,7 @@
     "Depression",
     "Family Conflict"
   ],
-  "order": 10,
-  "photoPosition": "30%",
+  "order": 0,
   "social": {},
   "bio": "Sarah Abobaker is a therapist at Riaz Counseling, supporting clients with anxiety, depression, coping challenges, family conflict, life transitions, relationship issues, trauma and PTSD, and women’s issues. Sarah’s primary areas of focus include pregnancy, prenatal and postpartum concerns, anxiety, and depression, while also working with individuals experiencing mood and personality disorders. Sarah provides individual and couples therapy services for preteens (11–12), teens (13–19), adults (20–64), and older adults (65+). Drawing from approaches including Cognitive Behavioral Therapy (CBT), Dialectical Behavioral Therapy (DBT), Narrative Therapy, and culturally sensitive and multicultural practices, Sarah creates a supportive environment that promotes healing, growth, and emotional well-being.",
   "topSpecialties": [
