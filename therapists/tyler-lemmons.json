@@ -1,0 +1,64 @@
+{
+  "id": "Tyler Lemmons",
+  "firstName": "Tyler",
+  "lastName": "Lemmons",
+  "title": "LMSW",
+  "tier": "associate",
+  "photo": "/therapists/tyler-lemmons/photo.jpg",
+  "locations": [
+    "galleria",
+    "sugar-land",
+    "online"
+  ],
+  "therapyTypes": [
+    "family",
+    "couples",
+    "individual"
+  ],
+  "specializations": [
+    "Anxiety",
+    "Depression",
+    "Emotional Disturbance",
+    " Grief",
+    "Life Transitions"
+  ],
+  "order": 0,
+  "social": {},
+  "bio": "Tyler Lemmons is a therapist at Riaz Counseling, supervised by Dr. Manahil Riaz (LPC-Supervisor), working with clients navigating anxiety, depression, grief, emotional disturbances, life transitions, parenting, pregnancy, prenatal and postpartum concerns, relationship issues, spirituality, and trauma-related challenges. Tyler’s primary areas of focus include trauma, spirituality, and relationship concerns, while also supporting individuals experiencing mood disorders. Tyler provides individual, couples, and family therapy services for preteens (11–12), teens (13–19), adults (20–64), and older adults (65+), offering affirming care for LGBTQ+, bisexual, lesbian, and heterosexual clients. Drawing from approaches including Attachment-Based Therapy, EMDR, Somatic Therapy, Trauma-Focused Therapy, and Eclectic Therapy, Tyler creates a supportive and collaborative space where clients can explore healing, connection, and personal growth.",
+  "topSpecialties": [
+    "Trauma",
+    "Spirituality",
+    "Relationship Issues"
+  ],
+  "expertise": [
+    "Parenting",
+    "Pregnancy",
+    "Prenatal",
+    "Postpartum",
+    "Relationship Issues",
+    "Spirituality",
+    "Trauma and PTSD"
+  ],
+  "mentalHealthAreas": [
+    "Mood Disorders"
+  ],
+  "therapyModalities": [
+    "Attachment Based",
+    "Eclecltic",
+    "EMDR",
+    "Somatic",
+    "Trauma Focused"
+  ],
+  "agesServed": [
+    "Preteen (11-12)",
+    "Teen (13-19)",
+    "Adults (Ages 20-64)",
+    "Elderly (65+)"
+  ],
+  "faith": "Christianity",
+  "communitiesServed": [
+    "Individual",
+    "Couples",
+    "Family"
+  ]
+}
